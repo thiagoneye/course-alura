@@ -1,2 +1,7 @@
 # course-alura
- Studies on software development and data science and engineering conducted through the Alura website.
+
+Estudos sobre Desenvolvimento de Software e Ciência e Engenharia de Dados através do site Alura.
+
+Todos os arquivos foram baseados nos cursos do site citado.
+
+[Alura](https://www.alura.com.br/)
