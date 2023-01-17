@@ -16,6 +16,13 @@ class Conta:
     def extrato(self):
         print(f'O saldo do titular {self.__titular} é de R$ {self.__saldo}.')
 
+    def deposita(self, valor):
+        self.__saldo += valor
+
+    def sacar(self, valor):
+        self.__saldo += valor
+
+
 # Main
 
 conta1 = Conta(123, "Nico", 55.5, 1000.0)
