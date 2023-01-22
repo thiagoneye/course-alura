@@ -6,7 +6,7 @@
 
 <hr>
 
-<p align="center">Esse projeto é utilizado no <a href=https://cursos.alura.com.br/course/python-tdd-explorando-testes-unitarios>curso de Python e TDD da Alura</a> e se trata de uma classe em Python que simula um sistema de administração de informações de funcionários de uma empresa fictícia chamada Bytebank.</p>
+Esse projeto é utilizado no <a href=https://cursos.alura.com.br/course/python-tdd-explorando-testes-unitarios>curso de Python e TDD da Alura</a> e se trata de uma classe em Python que simula um sistema de administração de informações de funcionários de uma empresa fictícia chamada Bytebank.
 
 ## Objetivos do projeto no curso
 
