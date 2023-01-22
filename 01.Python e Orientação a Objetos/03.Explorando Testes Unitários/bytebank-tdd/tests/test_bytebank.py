@@ -22,7 +22,7 @@ class TestClass:
 
         assert resultado == esperado
 
-    @mark.skip
+    #@mark.skip(reason='Não quero executar isso agora.')
     def test_quando_decrescimo_salario_recebe_100000_deve_retornar_90000(self):
         entrada_salario = 100000
         entrada_nome = 'Paulo Bragança'
@@ -53,3 +53,16 @@ class TestClass:
             resultado = funcionario_teste.calcular_bonus()
 
             assert resultado
+    """
+    def test_quando_chamado_retorna_string_str(self):
+        entrada_nome = 'Teste'
+        entrada_data = '12/03/2000'
+        entrada_salario = 1000
+
+        esperado = f'Funcionario({entrada_nome}, {entrada_data}, {entrada_salario})'
+
+        funcionario_teste = Funcionario(entrada_nome, entrada_data, entrada_salario)
+        resultado = funcionario_teste.__str__()
+
+        assert resultado == esperado
+    """
