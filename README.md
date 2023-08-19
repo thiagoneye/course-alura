@@ -10,6 +10,6 @@ Todos os arquivos foram baseados nos cursos do site citado.
 2. Apache Spark com Python
 3. Redes de Computadores
 4. A partir do zero: HTML e CSS para projetos web
-5. Engenharia de software
+5. Engenharia de Software
 6. Começando em Cloud Computing
 7. Apache Beam: Data Pipeline com Python
