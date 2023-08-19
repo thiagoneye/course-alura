@@ -12,3 +12,4 @@ Todos os arquivos foram baseados nos cursos do site citado.
 4. A partir do zero: HTML e CSS para projetos web
 5. Engenharia de software
 6. Começando em Cloud Computing
+7. Apache Beam: Data Pipeline com Python
